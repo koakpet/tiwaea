@@ -10,7 +10,7 @@ import FontAwesomeConfig from "./FontAwesome";
 export const metadata = {
   title: "Tammy's International Women in Agrculture Empowerment Association",
   description:
-    "NWIAA provides agriculture outreach, and education fuelled by sisterhood aimed at improving the agricultural productivity and sustainability of small-scale farmers in the World.",
+    "TIWAEA provides agriculture outreach, and education fuelled by sisterhood aimed at improving the agricultural productivity and sustainability of small-scale farmers in the World.",
 };
 
 export default function RootLayout({ children }) {
